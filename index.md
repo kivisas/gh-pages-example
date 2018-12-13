@@ -3,7 +3,7 @@ layout: default
 title: Example
 ---
 
-# Example project
+# Example project on gh-pages
 
 ## News
 
